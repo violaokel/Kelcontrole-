@@ -1,0 +1,10 @@
+{
+  "name": "Controle de Merenda Escolar",
+  "description": "Aplicativo completo de gestão e controle de merenda escolar, estoque de alimentos, receitas do cardápio, checklists de higienização e aniversariantes.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
